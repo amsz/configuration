@@ -1,0 +1,3 @@
+copy from cowman(http://cncowman.blogspot.com)
+
+update to sublime2 2190
