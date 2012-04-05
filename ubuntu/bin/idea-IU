@@ -1,0 +1,1 @@
+nohup /home/sunxc/program/idea10.5-IU/bin/idea.sh > /home/sunxc/program/idea10.5-IU/out.log  2>&1 & 

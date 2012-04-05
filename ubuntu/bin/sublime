@@ -1,0 +1,1 @@
+nohup /home/sunxc/program/sublime2/sublime_text > /home/sunxc/program/sublime2/out.log  2>&1 & 
