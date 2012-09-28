@@ -1,13 +1,23 @@
-# 常用配置
+开发环境配置
+============
 
-## 代码着色
-- SonOfObsidian - 我现在使用的颜色主题
+现在使用的颜色主题: SonOfObsidian 
 
-## Sublime Text2菜单本地化
-- 同步到2190
-
-## Ubuntu环境配置
+ubuntu
+------
 - 常用软件
 - bash配置
 - vim配置
 - bin/ 自定义命令
+
+windows
+-------
+
+develop 开发工具
+----------------
+* intellij idea
+* vs2005
+* sublime
+
+tool 常用工具
+-------------
