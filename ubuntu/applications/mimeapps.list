@@ -1,0 +1,14 @@
+
+[Default Applications]
+text/plain=geany.desktop
+text/html=google-chrome.desktop
+text/xml=geany.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/mailto=chromium-browser.desktop
+text/x-java=geany.desktop
+
+[Added Associations]
+text/x-java=geany.desktop;

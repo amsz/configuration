@@ -1,0 +1,1 @@
+logger.error("", ${EXCEPTION});

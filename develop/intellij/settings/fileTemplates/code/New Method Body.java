@@ -1,0 +1,1 @@
+#if ( $RETURN_TYPE != "void" )return $DEFAULT_RETURN_VALUE;#end  //todo: method ${CLASS_NAME}.${METHOD_NAME}

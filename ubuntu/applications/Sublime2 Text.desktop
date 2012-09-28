@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=dev #2190
+Type=Application
+Name=Sublime2 Text
+Exec="/home/sunxc/program/sublime2/sublime_text" %f
+Icon=/home/sunxc/program/sublime2/Icon/128x128/sublime_text.png
+Categories=Development;IDE;
+Terminal=false
+StartupNotify=true

@@ -1,5 +1,6 @@
 sudo apt-get update
 sudo apt-get upgrade
+sudo apt-get install build-essential
 sudo apt-get install chromium-browser
 sudo apt-get install flashplugin-installer
 sudo apt-get install rar unrar p7zip p7zip-rar p7zip-full
@@ -39,6 +40,13 @@ sudo mkdir -p /etc/hal/fdi
 ntfs-config
 选择“启用内部设备写支持”
 
+# socket 代理
+tsocket[http://tsocks.sourceforge.net/]
+sudo apt-get install tsocks
+vi /etc/tsocket.conf
+  server = 127.0.0.1
+  server_port = 7070
+
 # 隐藏磁盘图标
 gconf-editor
 /apps/nautilus/desktop/volumes_visible 设为false
@@ -67,5 +75,8 @@ diff-cmd = /home/sunxc/bin/vimdiffwrap.sh
 - GoldenDict
 - Fictx
 - MyUnity
+
+# ssh代理
+ssh -qTfnN -D 1983 xx@xx.xx.xx.xx
 
 # DG8FV B9TKY FRT9J 6CRCC XPQ4G
